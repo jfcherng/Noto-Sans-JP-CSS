@@ -1,0 +1,22 @@
+{
+  "name": "noto-sans-jp",
+  "version": "23.0.0",
+  "description": "(Noto Sans JP) Optimized CSS file and font files for local host.",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfcherng/Noto-Sans-JP-CSS.git"
+  },
+  "keywords": [
+    "font",
+    "noto-sans"
+  ],
+  "author": "Jack Cherng <jfcherng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfcherng/Noto-Sans-JP-CSS/issues"
+  },
+  "homepage": "https://github.com/jfcherng/Noto-Sans-JP-CSS#readme"
+}
