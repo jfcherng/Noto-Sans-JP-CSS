@@ -1,6 +1,6 @@
 {
   "name": "noto-sans-jp",
-  "version": "24.0.0",
+  "version": "25.0.0",
   "description": "(Noto Sans JP) Optimized CSS file and font files for local host.",
   "dependencies": {},
   "devDependencies": {},
